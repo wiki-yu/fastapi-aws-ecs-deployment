@@ -1,2 +1,5 @@
-# fastapi-aws-ecs-deployment
-A simple fastapi app deployed on aws ecs
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
